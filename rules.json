@@ -1,0 +1,37 @@
+{
+  "name": "My custom rules",
+  "description": "Compression of my custom rules",
+  "homepage": "https://github.com/showgood163/AdguardHome-Rules",
+  "license": "https://github.com/showgood163/AdguardHome-Rules?tab=Apache-2.0-1-ov-file",
+  "sources": [
+    {
+      "name": "CJX's Annoyance List",
+      "source": "https://github.com/cjx82630/cjxlist/raw/refs/heads/master/cjx-annoyance.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "Cats Team AdRules DNS List",
+      "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "HaGeZi's Pro DNS Blocklist",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "My own DNS Blocklist",
+      "source": "https://raw.githubusercontent.com/showgood163/AdguardHome-Rules/main/exclusions.txt",
+      "type": "adblock"
+    }
+  ],
+  "transformations": [
+    "Compress",
+    "ConvertToAscii",
+    "Deduplicate",
+    "InsertFinalNewLine",
+    "RemoveComments",
+    "RemoveEmptyLines",
+    "TrimLines"
+  ]
+}
