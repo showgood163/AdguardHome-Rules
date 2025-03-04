@@ -35,8 +35,6 @@ jobs:
       # Setup Node.js
       - uses: actions/setup-node@v4
         name: setup node.js
-        with:
-          cache: 'npm'
 
       # Install the hostlist-compiler
       - run: npm i -g @adguard/hostlist-compiler
