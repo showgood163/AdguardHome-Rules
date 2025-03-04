@@ -52,5 +52,7 @@ jobs:
           git commit -m "Update rules"
       
       # Push commits
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - uses: ad-m/github-push-action@master
+        name: Push changes
+        with:
+          branch: 'rules'
