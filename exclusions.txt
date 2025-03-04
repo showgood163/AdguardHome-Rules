@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+||bbums.org.cn^$important
+||bbums.cn^$important
+||mcdn.bilivideo.cn^$important
+||szbdyd.com^$important
+||api.open.oppomobile.com^$important
+||dbankcloud.cn^$important
+||obsidian-pc.com^$important
+||99.com.cn^$important
+||tzsafe.com^$important
+||fengkongcloud.com^$important
+||githubsupport.com^$important
