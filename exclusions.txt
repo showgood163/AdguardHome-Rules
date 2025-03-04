@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ||bbums.org.cn^$important
 ||bbums.cn^$important
 ||mcdn.bilivideo.cn^$important
