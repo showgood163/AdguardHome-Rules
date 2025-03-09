@@ -1,12 +1,12 @@
 {
   "name": "My custom rules",
-  "description": "Compression of my custom rules",
+  "description": "Deduplicated and compressed custom rules",
   "homepage": "https://github.com/showgood163/AdguardHome-Rules",
-  "license": "https://github.com/showgood163/AdguardHome-Rules?tab=Apache-2.0-1-ov-file",
+  "license": "https://github.com/showgood163/AdguardHome-Rules/blob/main/LICENSE",
   "sources": [
     {
       "name": "CJX's Annoyance List",
-      "source": "https://github.com/cjx82630/cjxlist/raw/refs/heads/master/cjx-annoyance.txt",
+      "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
       "type": "adblock"
     },
     {
@@ -26,12 +26,13 @@
     }
   ],
   "transformations": [
-    "Compress",
-    "ConvertToAscii",
-    "Deduplicate",
-    "InsertFinalNewLine",
     "RemoveComments",
     "RemoveEmptyLines",
-    "TrimLines"
+    "TrimLines",
+    "ConvertToAscii",
+    "Validate",
+    "Deduplicate",
+    "Compress",
+    "InsertFinalNewLine"
   ]
 }
