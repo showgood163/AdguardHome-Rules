@@ -15,6 +15,11 @@
       "type": "adblock"
     },
     {
+      "name": "AdGuard DNS filter",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/rules.txt",
+      "type": "adblock"
+    },
+    {
       "name": "HaGeZi's Pro DNS Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
       "type": "adblock"
