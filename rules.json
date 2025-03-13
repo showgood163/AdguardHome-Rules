@@ -7,22 +7,42 @@
     {
       "name": "CJX's Annoyance List",
       "source": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
-      "type": "adblock"
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments"
+      ]
     },
     {
       "name": "Cats Team AdRules DNS List",
       "source": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
-      "type": "adblock"
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments"
+      ]
     },
     {
       "name": "AdGuard DNS filter",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/rules.txt",
-      "type": "adblock"
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments"
+      ]
+    },
+    {
+      "name": "StevenBlack/hosts",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "type": "hosts",
+      "transformations": [
+        "RemoveComments"
+      ]
     },
     {
       "name": "HaGeZi's Pro DNS Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
-      "type": "adblock"
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments"
+      ]
     },
     {
       "name": "My own DNS Blocklist",
@@ -31,7 +51,6 @@
     }
   ],
   "transformations": [
-    "RemoveComments",
     "RemoveEmptyLines",
     "TrimLines",
     "ConvertToAscii",
