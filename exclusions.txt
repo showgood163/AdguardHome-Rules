@@ -14,3 +14,4 @@
 ||aedns.weixin.qq.com^
 ||httpdns.kg.qq.com^
 ||dns.wechat.com^
+||xcancel.net^
