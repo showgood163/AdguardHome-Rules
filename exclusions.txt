@@ -15,3 +15,6 @@
 ||httpdns.kg.qq.com^
 ||dns.wechat.com^
 ||xcancel.net^
+||gitcode.com^
+||sw2031.com^
+||aiide.xyz^
