@@ -33,6 +33,11 @@
       "name": "My own DNS Blocklist",
       "source": "https://raw.githubusercontent.com/showgood163/AdguardHome-Rules/main/exclusions.txt",
       "type": "adblock"
+    },
+    {
+      "name": "CN Malware Delivery",
+      "source": "https://raw.githubusercontent.com/showgood163/AdguardHome-Rules/main/malware-delivery.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [
