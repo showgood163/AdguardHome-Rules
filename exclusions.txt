@@ -24,3 +24,4 @@
 ||jsmaodian.top^
 ||huazi8.xyz^
 ||googleads.googleapis.com^
+||isecure.vivo.com.cn^
