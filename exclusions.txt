@@ -25,3 +25,4 @@
 ||huazi8.xyz^
 ||googleads.googleapis.com^
 ||isecure.vivo.com.cn^
+||233456.xyz^
