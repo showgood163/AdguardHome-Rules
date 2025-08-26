@@ -27,3 +27,5 @@
 ||isecure.vivo.com.cn^
 ||233456.xyz^
 ||id.vn^
+||ghrc.io^
+||segs.lol^
