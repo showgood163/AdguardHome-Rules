@@ -29,3 +29,4 @@
 ||id.vn^
 ||ghrc.io^
 ||segs.lol^
+||rustfoundation.dev^
