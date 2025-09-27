@@ -30,3 +30,4 @@
 ||ghrc.io^
 ||segs.lol^
 ||rustfoundation.dev^
+||giftshop.club^
