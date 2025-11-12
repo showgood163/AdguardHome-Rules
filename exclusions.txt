@@ -32,3 +32,4 @@
 ||rustfoundation.dev^
 ||giftshop.club^
 ||233456.xyz^
+||apkevery.com^
