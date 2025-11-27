@@ -37,3 +37,4 @@
 ||webabusedefense.com^
 ||oaus.dxeagle.business^
 ||settings-win.data.microsoft.com^
+||zxnyun.com^
