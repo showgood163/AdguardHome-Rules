@@ -38,3 +38,4 @@
 ||oaus.dxeagle.business^
 ||settings-win.data.microsoft.com^
 ||zxnyun.com^
+||tomshome.uk^
