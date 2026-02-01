@@ -1,1 +1,0 @@
-||dash.cloudflare.com^$dnstype=HTTPS,dnsrewrite=NOERROR;HTTPS;1 . alpn="h3,h2,http/1.1" ech="AEX+DQBBcwAgACB+Tf6OLR4GSOpi01Tkh6DM9FGWlQRG/3sbVoRMghPkagAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA="
