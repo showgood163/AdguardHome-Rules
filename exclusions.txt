@@ -39,3 +39,4 @@
 ||settings-win.data.microsoft.com^
 ||zxnyun.com^
 ||tomshome.uk^
+||litellm.cloud^
