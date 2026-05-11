@@ -20,16 +20,6 @@
       "type": "adblock"
     },
     {
-      "name": "StevenBlack/hosts",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "type": "hosts"
-    },
-    {
-      "name": "HaGeZi's Pro DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
-      "type": "adblock"
-    },
-    {
       "name": "My own DNS Blocklist",
       "source": "https://raw.githubusercontent.com/showgood163/AdguardHome-Rules/main/exclusions.txt",
       "type": "adblock"
